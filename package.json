@@ -1,0 +1,33 @@
+{
+  "name": "scriptcodesavvy",
+  "version": "1.0.2",
+  "description": "scriptcodesavvy",
+  "type": "module",
+  "main": "scriptcodesavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wildmanel531272/scriptcodesavvy"
+  },
+  "website": "https://github.com/wildmanel531272/scriptcodesavvy.git",
+  "keywords": [
+    "scriptcodesavvy"
+  ],
+  "author": "wildmanel531272",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildmanel531272/scriptcodesavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/wildmanel531272/scriptcodesavvy#readme",
+  "dependencies": {
+    "codescriptwiz": "1.0.2",
+    "devprogrammer": "1.0.2",
+    "codementor": "1.0.2"
+  }
+}
